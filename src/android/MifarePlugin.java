@@ -17,7 +17,7 @@ import com.nxp.nfclib.utils.Utilities;
 import com.nxp.nfcliblite.Interface.*;
 import com.nxp.nfcliblite.Interface.NxpNfcLibLite;
 import com.nxp.nfcliblite.Interface.Nxpnfcliblitecallback;
-import com.nxp.nfcliblite.cards.IDESFireEV1;
+import com.nxp.nfcliblite.cards.*;
 
 
 
